@@ -1,3 +1,10 @@
+"""
+This is the Day 4 Project of 100 Days of coding course from Udemy
+In this Project I have applied what I have learned on Day 4
+- Randomization
+- Python Lists
+"""
+
 import random
 rock = """
     _______
