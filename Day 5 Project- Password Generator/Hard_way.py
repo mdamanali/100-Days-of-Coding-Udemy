@@ -1,6 +1,6 @@
 """
 This is the Day 5 Project of 100 Days of coding course from Udemy
-In this Project I have applied what I have learned on Day 4
+In this Project I have applied what I have learned on Day 5
 - Random
 - For Loop
 - Range

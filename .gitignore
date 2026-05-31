@@ -1,4 +1,4 @@
-100-days-of-coding/
+.venv/
+venv_100_days_of_coding/
 __pycache__/
-*.pyc
 .vscode/
