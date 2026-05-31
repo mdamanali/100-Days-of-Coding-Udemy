@@ -1,0 +1,4 @@
+100-days-of-coding/
+__pycache__/
+*.pyc
+.vscode/
