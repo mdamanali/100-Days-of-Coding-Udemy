@@ -40,3 +40,5 @@ for char in range(1, nr_numbers + 1):
     password += random.choice(numbers)
 
 print(password)
+
+# This is easy solution file
