@@ -1,5 +1,5 @@
 """
-This is the Day 9 Project of 1100 Days of coding course from Udemy.
+This is the Day 9 Project of 100 Days of coding course from Udemy.
 In this Project I have applied what I have learned on Day 9
 - Clear()
 - Def (Functions)
